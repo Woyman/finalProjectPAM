@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login">
+    <ImageView
+        android:id="@+id/imgViewLogo"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/ic_account_balance_black_24dp"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"/>
+    <EditText
+        android:id="@+id/edtLogUs"
+        android:layout_below="@id/imgViewLogo"
+        android:hint="@string/username"
+        android:layout_width="300dp"
+        android:inputType="textPersonName"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"/>
+    <EditText
+        android:id="@+id/edtLogPass"
+        android:layout_below="@id/edtLogUs"
+        android:hint="@string/pass"
+        android:layout_width="300dp"
+        android:inputType="textPassword"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:id="@+id/btnLogIn"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/edtLogPass"
+        android:layout_centerHorizontal="true"
+        android:text="@string/login"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btnSignIn"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/btnLogIn"
+        android:layout_centerHorizontal="true"
+        android:text="@string/sign_in"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/fragment_setting_change"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/btnSignIn"
+        android:textAllCaps="false"
+        android:text="@string/btnLang"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>
