@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نهائي</string>
+    <string name="top_headlines">العناوين العليا</string>
+    <string	name="content_title">تطبيق المشروع النهائي</string>
+    <string	name="content_text"> لقد تم تسجيلك بنجاح في تطبيقاتنا</string>
+    <string	name="subtext">مرحبا بك والتمتع طلبنا</string>
+
+    <string	name="username">اسم المستخدم</string>
+    <string	name="pass">كلمه السر</string>
+    <string	name="cpass">تأكيد كلمة المرور</string>
+    <string	name="login">تسجيل الدخول</string>
+    <string	name="sign_in">تسجيل الدخول</string>
+    <string name="btnLang">لغة مجموعة</string>
+
+    <string	name="sign_up">سجل</string>
+    <string	name="reg">تسجيل</string>
+    <string	name="mail">البريد الإلكتروني</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final</string>
+    <string name="top_headlines">Top Schlagzeilen</string>
+    <string	name="content_title">Endgültige Projektanwendung</string>
+    <string	name="content_text">Sie wurden erfolgreich in unseren Apps registriert</string>
+    <string	name="subtext">Herzlich willkommen und viel Spaß mit unserer Bewerbung</string>
+
+    <string	name="username">Nutzername</string>
+    <string	name="pass">Passwort</string>
+    <string	name="cpass">Passwort bestätigen</string>
+    <string	name="login">ANMELDUNG</string>
+    <string	name="sign_in">EINLOGGEN</string>
+    <string name="btnLang">SPRACHE EINSTELLEN</string>
+
+    <string	name="sign_up">Anmelden</string>
+    <string	name="reg">REGISTRIEREN</string>
+    <string	name="mail">Email</string>
+</resources>

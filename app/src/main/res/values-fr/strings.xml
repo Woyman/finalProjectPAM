@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final</string>
+    <string name="top_headlines">Top titres</string>
+    <string	name="content_title">Demande finale de projet</string>
+    <string	name="content_text">Vous avez été enregistré avec succès sur nos applications</string>
+    <string	name="subtext">Bienvenue et profitez de notre application</string>
+
+    <string	name="username">Nom d utilisateur</string>
+    <string	name="pass">Mot de passe</string>
+    <string	name="cpass">Confirmez le mot de passe</string>
+    <string	name="login">S IDENTIFIER</string>
+    <string	name="sign_in">SE CONNECTER</string>
+    <string name="btnLang">DÉFINIR LA LANGUE</string>
+
+    <string	name="sign_up">S inscrire</string>
+    <string	name="reg">REGISTRE</string>
+    <string	name="mail">Email</string>
+</resources>
